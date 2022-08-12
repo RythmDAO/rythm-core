@@ -1,27 +1,27 @@
-## Contract Addresses - Optimism Kovan (Public Testnet):
+## Contract Addresses - Optimism Mainnet:
 
 # Core:
-Router: [​0xBC0184Cd2bcfd344715c5526f72c27e31DAe1642](https://kovan-optimistic.etherscan.io/address/​0xBC0184Cd2bcfd344715c5526f72c27e31DAe1642#code)
+Router: [0x727B2e501B04E492F83a956048bF74c09E0E1dc6](https://optimistic.etherscan.io/address/0x727B2e501B04E492F83a956048bF74c09E0E1dc6)
 
-Trading: [​0x3a4ed4b71cadEEBE3965061F0eb9FbfcBBDEbeb3](https://kovan-optimistic.etherscan.io/address/​0x3a4ed4b71cadEEBE3965061F0eb9FbfcBBDEbeb3#code)
+Trading: [0x484bB66F7667Ab59690bF5D5C0405e9E85906685](https://optimistic.etherscan.io/address/0x484bB66F7667Ab59690bF5D5C0405e9E85906685)
 
-Oracle: [​0xBf6ae459d7e06Efa0275826EAfd8dC94CcF5F95f](https://kovan-optimistic.etherscan.io/address/​0xBf6ae459d7e06Efa0275826EAfd8dC94CcF5F95f#code)
+Oracle: [0x2735E68Ce73f862E10ccf528e4e71688a978FF17](https://optimistic.etherscan.io/address/0x2735E68Ce73f862E10ccf528e4e71688a978FF17)
 
-Treasury: [​0x5DdC0ebFCA0EB379CEaFf30c91F94b66631eaF9D](https://kovan-optimistic.etherscan.io/address/​0x5DdC0ebFCA0EB379CEaFf30c91F94b66631eaF9D#code)
+Treasury: [0xB7F8eC857Ee8e9A2a6a1E01cABd06DDFA1bBDa4a](https://optimistic.etherscan.io/address/0xB7F8eC857Ee8e9A2a6a1E01cABd06DDFA1bBDa4a)
 
-Pool ETH: [​0x6ef73Ca369aBF2719143d104b031e747A83Ef07D](https://kovan-optimistic.etherscan.io/address/​0x6ef73Ca369aBF2719143d104b031e747A83Ef07D#code)
+Pool ETH: [0x8126B1F8970Bae96Df03eFd08BaEcf87dCDa0814](https://optimistic.etherscan.io/address/0x8126B1F8970Bae96Df03eFd08BaEcf87dCDa0814)
 
-Pool USDC: [​0x9aeF22D0C8A395283F09A3550841359e3b48C079](https://kovan-optimistic.etherscan.io/address/​0x9aeF22D0C8A395283F09A3550841359e3b48C079#code)
+Pool USDC: [0x3f0B6B1Acb5691869eda4D33E3D150212F1EB485](https://optimistic.etherscan.io/address/0x3f0B6B1Acb5691869eda4D33E3D150212F1EB485)
 
-Pool RTHM: [​0x9e5b9D2f165eC78e4c8D3428247309bCd32D4A76](https://kovan-optimistic.etherscan.io/address/​0x9e5b9D2f165eC78e4c8D3428247309bCd32D4A76#code)
+Pool RTHM: [0x25409222A5040F17A5ca5c180534eEFc62AF353B](https://optimistic.etherscan.io/address/0x25409222A5040F17A5ca5c180534eEFc62AF353B)
 
-Pool Rewards ETH: [​0x20763229D65c28fE80627ae2fb10d773DEC2645F](https://kovan-optimistic.etherscan.io/address/​0x20763229D65c28fE80627ae2fb10d773DEC2645F#code)
+Pool Rewards ETH: [0xc0Cf6dc00E129dbE5736DACaAb6cF93D0fdF1709](https://optimistic.etherscan.io/address/0xc0Cf6dc00E129dbE5736DACaAb6cF93D0fdF1709)
 
-Pool Rewards USDC: [​0xd4Dccb586A2785685e9942A7674fB33F8FbC28C7](https://kovan-optimistic.etherscan.io/address/​0xd4Dccb586A2785685e9942A7674fB33F8FbC28C7#code)
+Pool Rewards USDC: [0xD38F4aadE806fb529d279728EC9E89d2a0E5507a](https://optimistic.etherscan.io/address/0xD38F4aadE806fb529d279728EC9E89d2a0E5507a)
 
-RTHM Rewards ETH: [​0x0D95C678B7880eDA658104fD45B5D67D00d9330C](https://kovan-optimistic.etherscan.io/address/​0x0D95C678B7880eDA658104fD45B5D67D00d9330C#code)
+RTHM Rewards ETH: [0x8C649909b21578D7E7002af05771B46cF6f9Aea2](https://optimistic.etherscan.io/address/0x8C649909b21578D7E7002af05771B46cF6f9Aea2)
 
-RTHM Rewards USDC: [​0x0F51Ae4F2b3a6e9C7541C3865B67468Eeccb2946](https://kovan-optimistic.etherscan.io/address/​0x0F51Ae4F2b3a6e9C7541C3865B67468Eeccb2946#code)
+RTHM Rewards USDC: [0x452c5E118334C6B810207258Fe176C8aE3d38E28](https://optimistic.etherscan.io/address/0x452c5E118334C6B810207258Fe176C8aE3d38E28)
 
 # RTHM Token
-Optimism Kovan: [0x7425A338f4C5C472593c95332CF1c4F875332D87](https://kovan-optimistic.etherscan.io/address/0x7425A338f4C5C472593c95332CF1c4F875332D87#code)
+Optimism Mainnet: [0xb525312Fe5ADBBD0812191c78d4f58fF6b278c49](https://optimistic.etherscan.io/address/0xb525312Fe5ADBBD0812191c78d4f58fF6b278c49)

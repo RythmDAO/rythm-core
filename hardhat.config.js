@@ -23,7 +23,8 @@ module.exports = {
       accounts: [process.env.RINKEBY_PKEY]
     },
     mainnet: {
-      url: process.env.MAINNET_URL
+      url: 'https://mainnet.optimism.io',
+      accounts: [process.env.OPTIMISM_KEY]
     },
     arbitrum_rinkeby: {
       url: 'https://rinkeby.arbitrum.io/rpc',
